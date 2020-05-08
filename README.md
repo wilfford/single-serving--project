@@ -1,2 +1,2 @@
-# single-serving--project
-Bauhaus History
+# single-serving-project
+Bauhaus
